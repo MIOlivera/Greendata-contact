@@ -19,14 +19,17 @@ nav {
   display: flex;
   justify-content: space-around;
 	background-color: #006600;
-	font-size: 125%;
+}
+
+nav a {
+    font-size: 30px;
 }
 
 a {
 	margin: 0px;
-	font-size: medium
+	font-size: medium;
 }
 
 p {
-	font-size: medium
+	font-size: medium;
 }
