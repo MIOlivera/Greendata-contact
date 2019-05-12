@@ -11,11 +11,11 @@ header {
 }
 
 h1 { 
-	font-size: 6.0vh
+	font-size: 5.0vh
 }
 
 h2 {
-	font-size: 5.0vh
+	font-size: 4.0vh
 }
 	
 nav {
@@ -32,9 +32,9 @@ nav a {
 
 a {
 	margin: 0px;
-	font-size: larger;
+	font-size: 1vh;
 }
 
 p {
-	font-size: larger;
+	font-size: 1vh;
 }
